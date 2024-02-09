@@ -50,4 +50,14 @@ PR24  https://pr24byrr.netlify.app/
 
 PR25  https://pr25byrr.netlify.app/
 
+PR26  https://pr26byrr.netlify.app/
+
+PR27  https://pr27byrr.netlify.app/
+
+PR28  https://pr28byrr.netlify.app/
+
+PR29  https://pr29byrr.netlify.app/
+
+PR30  https://pr30byrr.netlify.app/
+
 All the Projects made By Rakesh Raushan :- https://rakesh-raushan.netlify.app/
