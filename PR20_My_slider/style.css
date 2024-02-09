@@ -1,0 +1,66 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    background : linear-gradient(to right, #ff67fc6b, #69cbff75);
+  }
+  
+  .container {
+    padding: 75px 0;
+    margin: 0 auto;
+    width: 1140px;
+  }
+  
+  h1 {
+    position: relative;
+    margin-bottom: 45px;
+    font-family: "Oswald", sans-serif;
+    font-size: 44px;
+    text-transform: uppercase;
+    color: #424242;
+    text-align: center;
+  }
+  
+  .Images-wrap {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 70vh;
+  }
+  
+  .photo {
+    flex: 1;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: none;
+    transition: flex 0.8s ease;
+    filter: blur(1px);
+    border-radius: 25px;
+  }
+  
+  .photo:hover {
+    flex: 7;
+    filter: blur(0px);
+  }
+  
+ .photo-1 {
+    background-image: url("./1.png");
+  }
+  
+  .photo-2 {
+    background-image: url("./2.jpg");
+  }
+  
+  .photo-3 {
+    background-image: url("./3.jpg");
+  }
+  
+  .photo-4 {
+    background-image: url("./4.jpg");
+ 
+  }
+  
+  .photo-5 {
+    background-image: url("./5.jpg");
+  }
+  
