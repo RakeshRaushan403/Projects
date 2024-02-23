@@ -62,4 +62,6 @@ PR30  https://pr30byrr.netlify.app/
 
 PR31  https://pr31byrr.netlify.app/
 
+PR32  https://pr32byrr.netlify.app/
+
 All the Projects made By Rakesh Raushan :- https://rakesh-raushan.netlify.app/
